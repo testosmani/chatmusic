@@ -1,5 +1,5 @@
 {
-  "name": "DaisyXMusic",
+  "name": "RibajOsmani",
   "logo": "https://telegra.ph/file/36ff1b571aa11df5812de.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": [
@@ -41,7 +41,7 @@
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
-      "value": "DaisySupport_Official"
+      "value": "osmanigroupbot"
     },
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
@@ -60,7 +60,7 @@
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
       "required": false,
-      "value": "DaisyXupdates"
+      "value": "teamosmani"
     },    
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
@@ -82,7 +82,7 @@
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
       "required": true,
-      "value": "300"
+      "value": "45000"
     }
   }
 }
